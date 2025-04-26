@@ -76,7 +76,7 @@ const historySearchHandler = async(data) => {
   return (
 
     <div className="bg-blue-950 h-screen p-8">
-      <h3 className="text-center pb-7 text-3xl font-bold text-white ">Welcome to Suvajit World</h3>
+      <h3 className="text-center pb-7 text-3xl font-bold text-white ">Welcome to My Weather</h3>
       <div className="max-w-[1240px] mx-auto mt-2 p-3 bg-blue-300 rounded-md">
       
         <Experts/>
